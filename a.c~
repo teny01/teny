@@ -7,7 +7,7 @@ scanf("%d%d", &a, &b);
 
 c=a+b;
 d=a-b;
-printf("ans is cvjhcjvn g%d %d \n" ,c,d);
+printf("ans is cvjhcjvn gb%d %d \n" ,c,d);
 }
 
 
